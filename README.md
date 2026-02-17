@@ -66,7 +66,7 @@ This project demonstrates:
 
 Add your GitHub Pages link here:
 
-https://yourusername.github.io/smart-finance-tracker-dashboard/
+ https://ponmysticafathima-pixel.github.io/smart-finance-trackersmart/
 
 ---
 
